@@ -8,5 +8,5 @@ this website is in build with PHP,MySql,HTML,CSS,JAVASCRIPT
 for running up: 
 copy project in xampp directory of htdocs
 import sql file to phpmyadmin 
-go to browser 
+go to browser  
 and search,http://localhost/index.html
